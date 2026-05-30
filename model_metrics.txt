@@ -1,0 +1,11 @@
+Stock: AAPL
+Period: 5y
+Sequence Length: 60
+Train/Test Split: 80/19
+Epochs trained: 100
+MSE: 15.674183
+RMSE: 3.9591
+MAE: 3.0040
+MAPE: 1.1933%
+R2: 0.9770
+Next Day Prediction: $311.20
